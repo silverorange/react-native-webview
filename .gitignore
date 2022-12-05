@@ -29,7 +29,6 @@ Pods/
 *.iml
 .gradle
 local.properties
-lib/android/src/main/gen
 
 # node.js
 #
@@ -53,7 +52,6 @@ android/gradle
 android/gradlew
 android/gradlew.bat
 
-lib/
 .classpath
 .project
 .settings/
